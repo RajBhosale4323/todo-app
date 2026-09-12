@@ -1,0 +1,11 @@
+.list {
+  background-color: #12121f;
+  border: 1px solid #2d2d44;
+  border-radius: 12px;
+  min-height: 180px;
+}
+ 
+.empty {
+  color: #8888a0;
+  padding: 1rem 0;
+}
