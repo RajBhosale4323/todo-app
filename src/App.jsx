@@ -2,7 +2,7 @@ import { useState } from "react";
 import tasksData from "./data/tasks";
 import Navbar from "./components/Navbar";
 import TaskInput from "./components/TaskInput";
-import TaskList from "./components/Tasklist";
+import TaskList from "./components/TaskList";
 import "./App.css";
 
 function App() {
